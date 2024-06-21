@@ -1,7 +1,7 @@
 # Mini10
 NTDEV's Tiny10 but more private
 
-[![Mini10 Autobuild](https://github.com/usefulstuffs/Mini10/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/usefulstuffs/Mini10/actions/workflows/release.yml)
+[![Mini10 Autobuild](https://github.com/all3n/Mini10/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/all3n/Mini10/actions/workflows/release.yml)
 
 ## What Mini10 is:
 - A private and malware-free operating system
